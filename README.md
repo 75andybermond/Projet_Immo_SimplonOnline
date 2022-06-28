@@ -1,5 +1,5 @@
 # Projet_Immo_SimplonOnline - 
-## Parcours dévelopeur IA - 
+## Parcours développeur IA - 
 
 Ce projet met en avant la force et l'interet de la digitilasion pour une agence immobiliaire. 
 
