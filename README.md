@@ -1,7 +1,7 @@
 # Projet_Immo_SimplonOnline - 
 ## Parcours développeur IA 
 
-Ce projet met en avant la force et l'interet de la digitilasion pour une agence immobiliaire. 
+Ce projet met en avant la force et l'interet de la digitilasion pour une agence immobilière. 
 
 On y aborde les aspects techniques mais aussi commerciaux ainsi que la partie recrutement.
 
